@@ -1,0 +1,2 @@
+# Process_Simulation-FIFO-
+This program simulates how a process is created and it's transition between(New, Blocked, Ready, Paused ,Running and Finished). Also this program shows you the times of them. The program creates processes automatically according to the number of processes desired. Also if you press N/n you create a new process, P/p pause the process, C/c continues the program, E/e finishes the process with an "error" flag and I/i blocks the process with a timer of 8 second each blocked process.
